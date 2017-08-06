@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UsersAndEvents>
+  <User UserID="1" UserName="Alexis" Password="36685672" AccessToken="" RefreshToken="">
+  </User>
+  <Event EventID="1" EventTitle="Nuevo evento" EventStartTime="11/8/2017 6:41:39 p. m." EventEndTime="11/8/2017 10:41:39 p. m." EventLocation="Seincomp, Buenos Aires" EventDetails="Prueba de calendario">
+  </Event>
+</UsersAndEvents>
